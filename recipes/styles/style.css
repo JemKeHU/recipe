@@ -1,0 +1,28 @@
+img {
+  width: 250px;
+  margin: 0 auto;
+  display: block;
+}
+
+.header {
+  padding: 15px;
+  background-color: lightseagreen;
+  margin: 5px auto;
+  text-align: center;
+}
+
+.header h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.content {
+  max-width: 600px;
+  margin: 0 auto;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.content a {
+  background-color: lightseagreen;
+  display: block;
+  text-align: center;
+}

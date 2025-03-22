@@ -1,0 +1,19 @@
+body {
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+.header {
+  background-color: lightseagreen;
+  text-align: center;
+}
+
+.header h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.content {
+  max-width: 600px;
+  margin: 0 auto;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
